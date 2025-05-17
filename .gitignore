@@ -1,4 +1,5 @@
 #config.js
 *.html
 *.txt
+!test.txt
 /temp
